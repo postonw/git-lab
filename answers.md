@@ -144,7 +144,7 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Answer 12:
-Yes, the online changes are now reflected in the local copy.
+Yes, the online changes are now reflected in my local copy.
 
 Answer 13:
 ./  ../  .git/  .gitignore  README.md
